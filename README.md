@@ -1,5 +1,5 @@
 # ECE143-group-9
-Each of the member scracthing data from different website\n
+Each of the member scracthing data from different website
 Yudi Wang:
   1.Scratching data from the Webpage 'https://opentrolley.com.sg/Home.aspx' - Processing
     web_crawlers_Yudi.py: data-scratch (data-processing)
