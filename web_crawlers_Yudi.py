@@ -53,7 +53,7 @@ publish_date = []
 # 20 pages in total
 
 if __name__ == '__main__':
-    for i in range(1):
+    for i in range(1):# number of pages
         res = requests.get(urls[i], headers)
         # Get the set-up user-agent
         res.encoding = encoding
