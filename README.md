@@ -13,3 +13,11 @@ Each of the member scracthing data from different website.
 		- Philosophy_Result_192.csv
 		- Medical_Result_199.csv
   	3. Visualization - To do. 
+	
+	Luxin Wang:
+	Data Processing
+		- Comic_result_118.csv
+		- Science_result_105.csv
+		- Cooking_result_100.csv
+		- Technology
+		
