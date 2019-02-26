@@ -16,8 +16,8 @@ Each of the member scracthing data from different website.
 	
 	Luxin Wang:
 	Data Processing
-		- Comic_result_118.csv
-		- Science_result_105.csv
-		- Cooking_result_100.csv
-		- Technology
+		- Comic
+		- Science
+		- Cooking
+		- Drama
 		
