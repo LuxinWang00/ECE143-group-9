@@ -1,24 +1,11 @@
 # ECE143-group-9
-## Best Sellers in Book
+## Best Sellers in Books
 
-Each of the member scracthing data from different website. 
+Data Scraping - Data Cleaning - Plotting - Presentation
 
-	Yudi Wang:
-  	1. Scratching data from the Webpage 'https://opentrolley.com.sg/Home.aspx'. 
-    		- web_crawlers_Yudi.py: data-scratch (data-preprocessing). 
-  	2. Data Processing 
-		Get the data: Fiction, Bible, Psychology, Philosophy, Medical
-		Adjustment for the dataset:
-			1. Cut the tail of each dataset so that they all have 190 rows;
-			2. Fix the lack of data problem, change part of the format for better plotting
-			3. Add the categories column for each dataset
-			4. Pile all the category into one ducument - all_category.csv(190 * 16 = 3040 in total) 
-  	3. Visualization - To do. 
-	
-	Luxin Wang:
-	Data Processing
-		- Comic
-		- Science
-		- Cooking
-		- Drama
-		
+	1.Data Scraping: Code used for scraping the data from the Open Trolley Website
+	2.Code for Plotting: Code used for plot the result
+	3.Plot: plots used in the slides
+	4.Scrapping result: data scraped from each category
+	5.Presentation: final slides
+	6.README.md
